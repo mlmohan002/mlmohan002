@@ -15,7 +15,7 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 - 📊 **Power BI Dashboard** – Interactive visualization for business metrics  
 
 ## 🔗 Connect with Me
-📫 **GitHub:** [mlmohan002/mlmohan002]  
+📫 **GitHub:** [https://github.com/mlmohan002]  
 🔗 **LinkedIn:** [www.linkedin.com/in/mohanm002]  
 
 Thanks for visiting my profile! 🚀  
