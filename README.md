@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohan!
 
-<!--
-**mlmohan002/mlmohan002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 About Me
+I'm an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights. I love working with **Adavance Excel,Python, SQL,power BI  and Tableau** to analyze, visualize, and optimize data-driven decision-making.
 
-Here are some ideas to get you started:
+## 🛠 Skills & Tools
+- **Languages:** Python | SQL  
+- **Data Visualization:** Tableau | Power BI | Matplotlib | Seaborn  
+- **Business Intelligence:** Excel | Google Sheets  
+- **Machine Learning Basics:** Regression | Classification | Clustering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects & Learning Journey
+- 🔍 **Customer Behavior Analysis** – Studied buying patterns using SQL & Python  
+- 📈 **Sales Forecasting Model** – Implemented a predictive model for trend analysis  
+- 📊 **Power BI Dashboard** – Interactive visualization for business metrics  
+
+## 🔗 Connect with Me
+📫 **GitHub:** [mlmohan002/mlmohan002]  
+🔗 **LinkedIn:** [www.linkedin.com/in/mohanm002]  
+
+Thanks for visiting my profile! 🚀  
